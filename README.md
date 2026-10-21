@@ -101,3 +101,18 @@ Have an idea for an app, SaaS platform, or business website? Let's build somethi
 *Build faster. Solve real problems. Ship products.*
 
 </div>
+
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./contrib-heatmap.svg" alt="GitHub contribution heatmap" width="100%" />
+</p>
+
+## 🖥️ My Developer Terminal
+
+<p align="center">
+  <img src="./info-card.svg" alt="AI-Native Product Builder terminal profile card" width="100%" />
+</p>
