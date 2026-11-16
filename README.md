@@ -8,9 +8,9 @@
 
 I build apps, SaaS platforms, and business systems by combining AI-assisted development, product thinking, and real-world problem solving.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-AftabAhmad-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeanddesigns.com/aftab-ahmad/)
-[![GitHub](https://img.shields.io/badge/GitHub-Iffiahmed-181717?style=for-the-badge&logo=github)](https://github.com/Iffiahmed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iffiahmed18/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeanddesigns.com/aftab-ahmad/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Iffiahmed) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iffiahmed18/)
 
 </div>
 
