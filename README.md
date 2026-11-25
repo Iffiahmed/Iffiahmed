@@ -39,7 +39,7 @@ Building a digital platform for diagnostic laboratories, covering lab operations
 
 Built and delivered and published Android App for Alfalah Labs which directly connects to their Advance LIMS.
 
-[![Alfalah Labs Android App](https://img.shields.io/badge/Explore-Alfalah%20Labs%20Android%20App-0D9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iffiahmed/Alfalah-Labs-Android-App-Showcase)
+[![Alfalah Labs Android App](https://img.shields.io/badge/Explore-Alfalah%20Labs%20Android%20App-8955F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iffiahmed/Alfalah-Labs-Android-App-Showcase)
 
 ### 🏪 Advance POS
 
